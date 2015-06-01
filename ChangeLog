@@ -1,3 +1,8 @@
+2015-06-01	unidecode 0.4.9
+
+	* Fixes character: in Mandarin, 广's pinyin is Guang, not Yan,
+          thanks to @adamwen829.
+
 2013-11-20	unidecode 0.4.8
 
 	* Updates URL and version,
