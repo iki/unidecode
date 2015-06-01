@@ -126,7 +126,7 @@ data = (
 'You ',    # 0x7c
 'You ',    # 0x7d
 'Ji ',    # 0x7e
-'Yan ',    # 0x7f
+'Guang ',    # 0x7f
 'Pi ',    # 0x80
 'Ting ',    # 0x81
 'Ze ',    # 0x82
